@@ -1,21 +1,19 @@
-h1{
-  color: #FF5733;
-}
+
 h1 {
-  color: orange;
+  color: blue;
   text-align: center;
 }
 
 h2 {
   font-style: italic;
   text-align: center;
-  color: pink;
+  color: teal;
 }
 
 p {
-  color: yellow;
+  color: black;
 }
 
 body {
-  background-color: green;
+  background-color: pink;
 }
